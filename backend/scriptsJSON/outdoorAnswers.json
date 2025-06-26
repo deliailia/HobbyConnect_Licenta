@@ -1,0 +1,93 @@
+{
+    "outdoorGroups": [
+      {
+        "category": "Outdoor",
+        "question": "How would you like to spend a day outdoors?",
+        "answers": [
+          {
+            "option": "Exploring new locations",
+            "group": "Travelling"
+          },
+          {
+            "option": "Enjoying a stroll through park or along the beach",
+            "group": "Walking"
+          },
+          {
+            "option": "Visiting coffeeshops and eating pastries",
+            "group": "Coffee"
+          },
+          {
+            "option": "Tasting a variety of dishes",
+            "group": "Food"
+          }
+        ]
+      },
+      {
+        "category": "Outdoor",
+        "question": "What would be your ideal location for an outdoor activity?",
+        "answers": [
+          {
+            "option": "Anywhere with rich history and culture",
+            "group": "Travelling"
+          },
+          {
+            "option": "A peaceful park, a mountain trail, along the coastline",
+            "group": "Walking"
+          },
+          {
+            "option": "A charming, cozy café",
+            "group": "Coffee"
+          },
+          {
+            "option": "Street food alley or a famous restaurant",
+            "group": "Food"
+          }
+        ]
+      },
+      {
+        "category": "Outdoor",
+        "question": "What do you enjoy most when you're outdoors?",
+        "answers": [
+          {
+            "option": "Discovering the unknown or famous locations",
+            "group": "Travelling"
+          },
+          {
+            "option": "Meditating in nature",
+            "group": "Walking"
+          },
+          {
+            "option": "Drinking something light and having a talk with friends",
+            "group": "Coffee"
+          },
+          {
+            "option": "Eating something appetizing and new",
+            "group": "Food"
+          }
+        ]
+      },
+      {
+        "category": "Outdoor",
+        "question": "Which personal quality does fit you?",
+        "answers": [
+          {
+            "option": "Curiosity and open minded to new cultures and experiences",
+            "group": "Travelling"
+          },
+          {
+            "option": "Patience to explore every trail",
+            "group": "Walking"
+          },
+          {
+            "option": "Attention to details and refined sense of taste",
+            "group": "Coffee"
+          },
+          {
+            "option": "Willingness to try new flavours",
+            "group": "Food"
+          }
+        ]
+      }
+    ]
+  }
+  

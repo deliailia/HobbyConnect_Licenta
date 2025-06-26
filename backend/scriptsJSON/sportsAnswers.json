@@ -1,0 +1,99 @@
+
+{
+  "sportGroups": [
+    {
+      "category": "Sports",
+      "question": "If you could join a sport, which would you choose?",
+      "answers": [
+        {
+          "option": "Playing in a dynamic fast-paced team",
+          "group": "Soccer"
+        },
+        {
+          "option": "In a team, and it includes quick reflexes and jumping",
+          "group": "Volleyball"
+        },
+        {
+          "option": "Fast, intense sport together with the team",
+          "group": "Basketball"
+        },
+        {
+          "option": "Solo activity focused on flexibility, strength, and posture",
+          "group": "Pilates"
+        }
+        
+
+      ]
+    },
+    {
+      "category": "Sports",
+      "question": "Which of these describes your ideal workout environment?",
+      "answers": [
+        {
+          "option": "A large outdoor field",
+          "group": "Soccer"
+        },
+        {
+          "option": "Dynamic indoor or outdoor court with net in the middle",
+          "group": "Volleyball"
+        },
+        {
+          "option": "Brightly lit court",
+          "group": "Basketball"
+        },
+        {
+          "option": "A quiet, calm studio with mats ",
+          "group": "Pilates"
+        }
+        
+
+      ]
+    },
+    {
+      "category": "Sports",
+      "question": "Which skill do you think is the most important?",
+      "answers": [
+        {
+          "option": "Quick reflexes",
+          "group": "Soccer"
+        },
+        {
+          "option": "Precision",
+          "group": "Volleyball"
+        },
+        {
+          "option": "Teamwork",
+          "group": "Basketball"
+        },
+        {
+          "option": "Core strength or flexibility",
+          "group": "Pilates"
+        }
+
+      ]
+    },
+    {
+      "category": "Sports",
+      "question": "What do you value most from participating in sports?",
+      "answers": [
+        {
+          "option": "Improving my endurance through running",
+          "group": "Soccer"
+        },
+        {
+          "option": "Pushing my performance to the next level",
+          "group": "Volleyball"
+        },
+        {
+          "option": "Making new friends",
+          "group": "Basketball"
+        },
+        {
+          "option": "Enhancing my flexibility and overall health",
+          "group": "Pilates"
+        }
+
+      ]
+    }
+  ]
+}

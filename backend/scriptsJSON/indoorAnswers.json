@@ -1,0 +1,61 @@
+{
+    "indoorGroups": [
+      {
+        "category": "Indoor",
+        "question": "How do you prefer to spend free time?",
+        "answers": [
+          {
+            "option": "Discovering new artists or going to music festivals",
+            "group": "Music"
+          },
+          {
+            "option": "Completing challanges",
+            "group": "Gaming"
+          },
+          {
+            "option": "Watching movies to relax",
+            "group": "Movie"
+          }
+          
+        ]
+      },
+      {
+        "category": "Indoor",
+        "question": "Which mood sounds more appealing?",
+        "answers": [
+          {
+            "option": "Energized and ready to dance",
+            "group": "Music"
+          },
+          {
+            "option": "Competitive and focused",
+            "group": "Gaming"
+          },
+        
+          {
+            "option": "Curious and looking for a plot",
+            "group": "Movie"
+          }
+        ]
+      },
+      {
+        "category": "Indoor",
+        "question": "Which activity requires the right amount of patience to you?",
+        "answers": [
+          {
+            "option": "Listening to songs over and over to analyze the details",
+            "group": "Music"
+          },
+          {
+            "option": "Staying focused completing a game",
+            "group": "Gaming"
+          },
+          {
+            "option": "Watching a movie from start to finish without interruption",
+            "group": "Movie"
+          }
+        ]
+      }
+    ]
+  }
+  

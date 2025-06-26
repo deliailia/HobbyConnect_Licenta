@@ -1,0 +1,93 @@
+{
+    "artGroups": [
+      {
+        "category": "Art",
+        "question": "What activity sounds like the best way to express yourself?",
+        "answers": [
+          {
+            "option": "Capturing unique landscapes",
+            "group": "Photography"
+          },
+          {
+            "option": "Sketching ideas ",
+            "group": "Drawing"
+          },
+          {
+            "option": "Create new rhythms or lyrics",
+            "group": "Compositor"
+          },
+          {
+            "option": "Create new moves for your favourite songs",
+            "group": "Choreography"
+          }
+        ]
+      },
+      {
+        "category": "Art",
+        "question": "Which of these scenarios feels the most inspiring?",
+        "answers": [
+          {
+            "option": "Watching the sunset",
+            "group": "Photography"
+          },
+          {
+            "option": "Filling blank canvas with creation",
+            "group": "Drawing"
+          },
+          {
+            "option": "Hearing a song that makes you replay it 5 more times",
+            "group": "Compositor"
+          },
+          {
+            "option": "Hearing a song that makes your body move along the beat",
+            "group": "Choreography"
+          }
+        ]
+      },
+      {
+        "category": "Art",
+        "question": "Which feeling describes the best that a hobby can give you?",
+        "answers": [
+          {
+            "option": "Sense of wonder and exploring the world",
+            "group": "Photography"
+          },
+          {
+            "option": "Peaceful, focused state while creating",
+            "group": "Drawing"
+          },
+          {
+            "option": "Joy, energy, but sadness and heartbreak",
+            "group": "Compositor"
+          },
+          {
+            "option": "Mentally relaxed, but physically exhausted",
+            "group": "Choreography"
+          }
+        ]
+      },
+      {
+        "category": "Art",
+        "question": "What object would you choose?",
+        "answers": [
+          {
+            "option": "Lamp",
+            "group": "Photography"
+          },
+          {
+            "option": "Desk",
+            "group": "Drawing"
+          },
+          {
+            "option": "Sticky notes",
+            "group": "Compositor"
+          },
+          {
+            "option": "Pick-up",
+            "group": "Choreography"
+          }
+        ]
+      }
+    ]
+  }
+  

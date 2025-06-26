@@ -1,0 +1,189 @@
+{
+    "languagesGroups": [
+      
+      {
+        "category": "Languages",
+        "question": "Which food would you like to eat for the rest of your life?",
+        "answers": [
+          {
+            "option": "Croissant",
+            "group": "French"
+          },
+          {
+            "option": "Gelato",
+            "group": "Italian"
+          },
+          {
+            "option": "Ratatouille",
+            "group": "Italian"
+          },
+          {
+            "option": "Teokbokki(rice cakes)",
+            "group": "Korean"
+          },
+          {
+            "option": "Tortilla/tacos",
+            "group": "Spanish"
+          },{
+            "option": "Grilled salmon with potatoes",
+            "group": "Norvegian"
+          }
+        ]
+      },
+      {
+        "category": "Languages",
+        "question": "Which weather do you prefer?",
+        "answers": [
+          {
+            "option": "Mild weather",
+            "group": "Italian"
+          },
+          {
+            "option": "Warm Mediterranean sunshine",
+            "group": "Spanish"
+          },
+          {
+            "option": "Cherry blossom in full bloom",
+            "group": "Korean"
+          },
+          {
+            "option": "Crips, cool air and windy",
+            "group": "French"
+          },
+          {
+            "option": "Hot sunny days",
+            "group": "Spanish"
+          },
+          {
+            "option": "Cold and snowy weather",
+            "group": "Norvegian"
+          }
+        ]
+      },
+      {
+        "category": "Languages",
+        "question": "Which of these cultural traditions surprised you the most?",
+        "answers": [
+          {
+            "option": "People greet each other with multiple kisses on the cheek depending on the region.",
+            "group": "French"
+          },
+          {
+            "option": "It's common to avoid walking under ladders or mentioning the number 17—considered unlucky.",
+            "group": "Italian"
+          },
+          {
+            "option": "People often talk very loudly and use lots of hand gestures even in casual conversations.",
+            "group": "Italian"
+          },
+          {
+            "option": "Age hierarchy is so important that people ask your birth year before speaking informally.",
+            "group": "Korean"
+          },
+          
+          {
+            "option": "People eat dinner as late as 10 PM and take naps in the afternoon (siesta).",
+            "group": "Spanish"
+          },
+          {
+            "option": "People celebrate Midsummer by lighting huge bonfires near lakes and fjords.",
+            "group": "Norvegian"
+          }
+        ]
+      },
+      {
+        "category": "Languages",
+        "question": "If you had an hour of free time, how would you prefer to spend it?",
+        "answers": [
+          {
+            "option": "Sipping coffee at a charming café",
+            "group": "French"
+          },
+          {
+            "option": "Exploring fachion and art-filled museums",
+            "group": "Italian"
+          },
+          {
+            "option": "Practicing calligraphy or painting",
+            "group": "Korean"
+          },
+          {
+            "option": "Discovering new tv shows and documentaries",
+            "group": "Korean"
+          },
+          
+          {
+            "option": "Feeling the sea breeze and listening to the sound of waves",
+            "group": "Spanish"
+          },
+          {
+            "option": "Hiking on mountains paths and admiring the beauty of nature",
+            "group": "Norvegian"
+          }
+        ]
+      },
+      {
+        "category": "Languages",
+        "question": "Which combination of colors do you like the most?",
+        "answers": [
+          {
+            "option": "Pastel Blue and Beige",
+            "group": "French"
+          },
+          {
+            "option": "Olive Green and Brown",
+            "group": "Italian"
+          },
+          {
+            "option": "White and Cherry Blossom Pink",
+            "group": "Korean"
+          },
+          {
+            "option": "Bright Red and Yellow",
+            "group": "Spanish"
+          },
+          
+          {
+            "option": "Deep Blue and Snow White",
+            "group": "Norvegian"
+          },
+          {
+            "option": "Green and Blue",
+            "group": "Norvegian"
+          }
+        ]
+      },
+       {
+        "category": "Languages",
+        "question": "What flower would you choose?",
+        "answers": [
+          {
+            "option": "Lavander",
+            "group": "French"
+          },
+          {
+            "option": "Roses",
+            "group": "Spanish"
+          },
+          {
+            "option": "Blossom",
+            "group": "Korean"
+          },
+          {
+            "option": "Camellia",
+            "group": "Korean"
+          },
+          
+          {
+            "option": "Lily",
+            "group": "Italian"
+          },
+          {
+            "option": "Blue bell",
+            "group": "Norvegian"
+          }
+        ]
+      }
+    ]
+  }
+  
